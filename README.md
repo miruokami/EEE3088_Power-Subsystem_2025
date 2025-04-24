@@ -7,7 +7,9 @@ Welcome to the repository for the **EEE3088F Micro-Mouse Power Subsystem Project
 - Student 1: SDZLIY001
 - Student 2: CHGSHA008
 
+
 ## 📁 Repository Structure
+```
 - Power subsystem folder with /
   ├── gerbers /
   ├── bom /
@@ -15,6 +17,7 @@ Welcome to the repository for the **EEE3088F Micro-Mouse Power Subsystem Project
   ├── screenshots /
   ├── schematics /
   ├── pcb_layout /
+```
 
 ## 🧠 Project Overview
 
