@@ -11,11 +11,11 @@ Welcome to the repository for the **EEE3088F Micro-Mouse Power Subsystem Project
 ## 📁 Repository Structure
 ```
 > Power subsystem folder with 
-  ├── gerbers 
-  ├── bom 
-  ├── pos 
-  ├── screenshots 
-  ├── schematics 
+  ├── gerbers / # Gerber files for PCB production
+  ├── bom (PowerSchematic) / # Bill of Materials (.csv)
+  ├── pos / # Pick-and-Place (PnP) files
+  ├── screenshots / # Screenshots from JLCPCB uploads
+  ├── schematics / # Final schematic file
   ├── pcb_layout 
 ```
 
@@ -56,9 +56,14 @@ This project involves designing the **power module** for the Micro-Mouse. The re
 | ON/OFF Switch | <30µA draw in OFF state |
 | Budget | $35 per student (includes PCB + components) |
 
+### 🛠️ PCB Ordering  
+1. Upload `gerbers/*.zip` to JLCPCB.  
+2. Use the provided `bom.csv` and `pos.csv` for assembly.  
+3. Ensure components are in stock (check JLCPCB's inventory).
+   
 ## 🧪 Testing Procedure
 
-Testing will be performed using a standardized jig that validates:
+Testing will be performed using a standardised jig that validates:
 - USB-C power output
 - Battery charging behavior
 - Regulated outputs (5V, 3.3V)
