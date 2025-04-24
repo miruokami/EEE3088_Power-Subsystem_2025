@@ -10,13 +10,13 @@ Welcome to the repository for the **EEE3088F Micro-Mouse Power Subsystem Project
 
 ## 📁 Repository Structure
 ```
-- Power subsystem folder with /
-  ├── gerbers /
-  ├── bom /
-  ├── pos /
-  ├── screenshots /
-  ├── schematics /
-  ├── pcb_layout /
+> Power subsystem folder with 
+  ├── gerbers 
+  ├── bom 
+  ├── pos 
+  ├── screenshots 
+  ├── schematics 
+  ├── pcb_layout 
 ```
 
 ## 🧠 Project Overview
