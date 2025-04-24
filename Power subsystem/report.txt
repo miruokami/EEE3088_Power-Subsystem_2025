@@ -1,0 +1,11 @@
+Changed footprint C1 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C2 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C3 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C4 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C7 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C8 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C9 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C10 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C12 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C13 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
+Changed footprint C14 from 'Capacitor_SMD:C_0603_1608Metric' to 'Capacitor_SMD:C_0603_1608Metric': : OK
